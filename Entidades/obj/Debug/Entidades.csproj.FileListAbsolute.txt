@@ -1,0 +1,9 @@
+C:\Users\User\Documents\FINAL_LABO_2-\Final.2021_2cuat__Renombar_con_Apellido.Nombre\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Documents\FINAL_LABO_2-\Final.2021_2cuat__Renombar_con_Apellido.Nombre\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Documents\FINAL_LABO_2-\Final.2021_2cuat__Renombar_con_Apellido.Nombre\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\User\Documents\FINAL_LABO_2-\Final.2021_2cuat__Renombar_con_Apellido.Nombre\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\FINAL_LABO_2-\Final.2021_2cuat__Renombar_con_Apellido.Nombre\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Documents\FINAL_LABO_2-\Final.2021_2cuat__Renombar_con_Apellido.Nombre\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Documents\FINAL_LABO_2-\Final.2021_2cuat__Renombar_con_Apellido.Nombre\Entidades\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Documents\FINAL_LABO_2-\Final.2021_2cuat__Renombar_con_Apellido.Nombre\Entidades\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Documents\FINAL_LABO_2-\Final.2021_2cuat__Renombar_con_Apellido.Nombre\Entidades\obj\Debug\Entidades.csproj.CopyComplete
